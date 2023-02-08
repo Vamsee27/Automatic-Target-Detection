@@ -15,6 +15,4 @@ The data contains clutters of both rural and urban types and features five diffe
 
 The pictures were taken at a 15-degree depression angle. This dataset can be used for research and development in target recognition and classification.
 
-Download the MSTAR Clutter Dataset from this link: 
-
-https://ssd.mathworks.com/supportfiles/radar/data/MSTAR_ClutterDataset.tar.gz
+Download the MSTAR Clutter Dataset from this link: https://ssd.mathworks.com/supportfiles/radar/data/MSTAR_ClutterDataset.tar.gz
