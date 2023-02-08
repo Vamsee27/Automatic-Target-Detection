@@ -1,0 +1,11 @@
+We used a subset of the MSTAR clutter dataset with 300 training images and 50 testing images with five different targets.
+
+An X-band sensor with a resolution of one foot and spotlight mode was used to collect the data. 
+
+Clutters of both rural and urban types are included in the data. 
+
+BTR-60 (an armored vehicle), BRDM-2 (a fighting vehicle), ZSU-23/4 (a tank), T62 (a tank), and SLICY (multiple simple geometrically shaped static targets) are the various types of targets that are utilized. 
+
+The pictures were taken at a 15-degree depression angle.
+
+Dataset reference(Mathworks) : https://www.mathworks.com/help/radar/ug/target-recognition-from-sar-images-using-deep-learning.html
