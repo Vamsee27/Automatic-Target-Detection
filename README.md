@@ -1,7 +1,7 @@
 # Automatic-Target-Detection
 ML-Based Target Detection in SAR Images
 
-#Dataset Description
+# Dataset Description
 
 This dataset is a subset of the MSTAR Clutter dataset and includes 300 training images and 50 testing images. The images were collected using an X-band sensor with a resolution of one foot in spotlight mode.
 
